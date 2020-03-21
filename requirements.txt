@@ -1,2 +1,1 @@
-flask
-requirements.txt
+flask==1.1.1
